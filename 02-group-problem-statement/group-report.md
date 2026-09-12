@@ -12,7 +12,7 @@
 | 4   | Hồ Đăng Phúc       | 2A202602796 | Research, Validator                                              |
 
 **Candidate problem nhóm chọn (1 câu):**
-
+Người học IELTS Speaking tự luyện nhưng bế tắc vì không nhận được feedback tức thì, không biết mình đang sai ở đâu theo 4 tiêu chí chấm thi để có thể sửa và nâng band.
 ---
 
 ## Phase 3 — Group Convergence: từ 9-12 candidates về 1
